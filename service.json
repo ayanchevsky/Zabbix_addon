@@ -1,0 +1,34 @@
+[{"Service":{
+    "AVP":{
+    "full_name": "Kaspersky Endpoint Security Service",
+    "alert": "1"},
+    "RServer3":{
+    "full_name": "Radmin Server",
+    "alert": "2"},
+    "CrocoTime Agent":{
+    "full_name": "CrocoTime Agent",
+    "alert": "1"},
+    "ROMService":{
+    "full_name": "LiteManager Server",
+    "alert": "1"},
+    "StkhClientService":{
+    "full_name": "комплекс СТАХАНОВЕЦ",
+    "alert": "1"},
+    "Zabbix Agent":{
+    "full_name": "Zabbix Agent",
+    "alert": "1"},
+    "klnagent":{
+    "full_name": "Агент администрирования Kaspersky",
+    "alert": "1"},
+    "Audiosrv":{
+    "full_name": "Windows Audio",
+    "alert": "2"},
+    "stisvc":{
+    "full_name": "Служба загрузки изображений Windows",
+    "alert": "2"}
+},
+"Process": {
+    "ROMViewer":{}
+    }
+}	
+]
